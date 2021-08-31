@@ -1,0 +1,56 @@
+{
+  "devm": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-authcra-devm-71848-authRole",
+      "UnauthRoleArn": "arn:aws:iam::706857956236:role/amplify-authcra-devm-71848-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::706857956236:role/amplify-authcra-devm-71848-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-authcra-devm-71848-deployment",
+      "UnauthRoleName": "amplify-authcra-devm-71848-unauthRole",
+      "StackName": "amplify-authcra-devm-71848",
+      "StackId": "arn:aws:cloudformation:eu-west-1:706857956236:stack/amplify-authcra-devm-71848/afb52ac0-0a2b-11ec-acfd-0a2520d5a4a1",
+      "AmplifyAppId": "dkbuw19gm3to3"
+    },
+    "categories": {
+      "auth": {
+        "cognitocf0c6096": {}
+      }
+    }
+  },
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-createreactappautham-staging-105334-authRole",
+      "UnauthRoleArn": "arn:aws:iam::706857956236:role/amplify-createreactappautham-staging-105334-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::706857956236:role/amplify-createreactappautham-staging-105334-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-createreactappautham-staging-105334-deployment",
+      "UnauthRoleName": "amplify-createreactappautham-staging-105334-unauthRole",
+      "StackName": "amplify-createreactappautham-staging-105334",
+      "StackId": "arn:aws:cloudformation:eu-west-1:706857956236:stack/amplify-createreactappautham-staging-105334/ed1f4aa0-0a38-11ec-a6db-061d2ae19aad",
+      "AmplifyAppId": "dkbuw19gm3to3"
+    },
+    "categories": {
+      "auth": {
+        "cognitocf0c6096": {}
+      }
+    }
+  },
+  "production": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-createreactappautham-production-105441-authRole",
+      "UnauthRoleArn": "arn:aws:iam::706857956236:role/amplify-createreactappautham-production-105441-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::706857956236:role/amplify-createreactappautham-production-105441-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-createreactappautham-production-105441-deployment",
+      "UnauthRoleName": "amplify-createreactappautham-production-105441-unauthRole",
+      "StackName": "amplify-createreactappautham-production-105441",
+      "StackId": "arn:aws:cloudformation:eu-west-1:706857956236:stack/amplify-createreactappautham-production-105441/15070d00-0a39-11ec-8a52-02d7a962aec7",
+      "AmplifyAppId": "dkbuw19gm3to3"
+    },
+    "categories": {
+      "auth": {
+        "cognitocf0c6096": {}
+      }
+    }
+  }
+}
