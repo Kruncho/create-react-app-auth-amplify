@@ -1,15 +1,6 @@
 {
-  "auth": {
-    "cognitocf0c6096": {
-      "service": "Cognito",
-      "providerPlugin": "awscloudformation"
-    }
-  },
+  "auth": {},
   "api": {},
-  "storage": {
-    "s3e9ce10d0": {
-      "service": "S3",
-      "providerPlugin": "awscloudformation"
-    }
-  }
+  "storage": {},
+  "function": {}
 }
