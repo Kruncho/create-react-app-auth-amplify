@@ -5,21 +5,11 @@
       "providerPlugin": "awscloudformation"
     }
   },
-  "api": {
-    "createreactappautham": {
-      "service": "AppSync",
-      "providerPlugin": "awscloudformation",
-      "output": {
-        "authConfig": {
-          "defaultAuthentication": {
-            "authenticationType": "AMAZON_COGNITO_USER_POOLS",
-            "userPoolConfig": {
-              "userPoolId": "authcognitocf0c6096"
-            }
-          },
-          "additionalAuthenticationProviders": []
-        }
-      }
+  "api": {},
+  "storage": {
+    "s3e9ce10d0": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
     }
   }
 }
